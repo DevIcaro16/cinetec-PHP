@@ -5,3 +5,5 @@ $user = "root";
 $password= "";
 
 $connect = mysqli_connect($serv,$user,$password,$dbname);
+
+?>
